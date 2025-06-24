@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Midoconline" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/BlueDarkMdoPac</item>
+        <item name="colorPrimaryVariant">@color/BlueDarkMdoPac</item>
+        <item name="colorOnPrimary">@color/BlueDarkMdoPac</item>
+
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+
+        <item name="android:windowEnableSplitTouch">true</item>
+        <item name="android:splitMotionEvents">true</item>
+        <item name="android:windowBackground">@color/BlueDarkMdoPac</item>
+    </style>
+</resources>

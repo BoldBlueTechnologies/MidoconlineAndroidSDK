@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="consultaPorVideollamada_mdopac">Consulta por videollamada</string>
+    <string name="midoconline_mdopac">Midoconline</string>
+    <string name="url_midoconline_mdopac">https://paciente.midoconline.com</string>
+</resources>

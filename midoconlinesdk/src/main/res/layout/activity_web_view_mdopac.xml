@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:elevation="8dp"
+        android:id="@+id/ToolbarRecuperar"
+        app:titleTextColor="@color/WhiteMdoPac"
+        android:background="@color/BlueDarkMdoPac"
+        app:subtitle="@string/url_midoconline_mdopac"
+        app:subtitleTextColor="@color/WhiteMdoPac"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:subtitleTextAppearance="@style/MyToolbarSubtitleText"
+        app:titleTextAppearance="@style/MyToolbarTitleText"/>
+
+    <WebView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/web_view_mdopac"/>
+</LinearLayout>

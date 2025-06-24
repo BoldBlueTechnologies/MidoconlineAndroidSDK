@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.app.boldblue.midoconlinesdk.ButtonWhiteMdoPac
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <com.app.boldblue.midoconlinesdk.ButtonBlueMdoPac
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <com.app.boldblue.midoconlinesdk.Button2WhiteMdoPac
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <com.app.boldblue.midoconlinesdk.Button2BlueMdoPac
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <com.app.boldblue.midoconlinesdk.Button3WhiteMdoPac
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <com.app.boldblue.midoconlinesdk.Button3BlueMdoPac
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
