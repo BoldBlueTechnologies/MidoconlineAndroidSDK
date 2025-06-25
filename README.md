@@ -31,7 +31,7 @@ Integración por XML
 
 Ejemplo 1 :
 ```
-<com.app.boldblue.midoconlinesdk.ButtonWhiteMdoPac
+<com.app.boldblue.midoconlinesdk.ButtonBlueMdoPac
 android:layout_width="match_parent"
 android:layout_height="wrap_content"/>
 ```
@@ -39,7 +39,7 @@ android:layout_height="wrap_content"/>
 
 Ejemplo 2 :
 ```
-<com.app.boldblue.midoconlinesdk.ButtonBlueMdoPac
+<com.app.boldblue.midoconlinesdk.ButtonWhiteMdoPac
 android:layout_width="match_parent"
 android:layout_height="wrap_content"/>
 ```
@@ -47,7 +47,7 @@ android:layout_height="wrap_content"/>
 
 Ejemplo 3 :
 ```
-<com.app.boldblue.midoconlinesdk.Button2WhiteMdoPac
+<com.app.boldblue.midoconlinesdk.Button2BlueMdoPac
 android:layout_width="match_parent"
 android:layout_height="wrap_content"/>
 ```
@@ -55,7 +55,7 @@ android:layout_height="wrap_content"/>
 
 Ejemplo 4 :
 ```
-<com.app.boldblue.midoconlinesdk.Button2BlueMdoPac
+<com.app.boldblue.midoconlinesdk.Button2WhiteMdoPac
 android:layout_width="match_parent"
 android:layout_height="wrap_content"/>
 ```
@@ -63,7 +63,7 @@ android:layout_height="wrap_content"/>
 
 Ejemplo 5 :
 ```
-<com.app.boldblue.midoconlinesdk.Button3WhiteMdoPac
+<com.app.boldblue.midoconlinesdk.Button3BlueMdoPac
 android:layout_width="match_parent"
 android:layout_height="wrap_content"/>
 ```
@@ -71,7 +71,7 @@ android:layout_height="wrap_content"/>
 
 Ejemplo 6 :
 ```
-<com.app.boldblue.midoconlinesdk.Button3BlueMdoPac
+<com.app.boldblue.midoconlinesdk.Button3WhiteMdoPac
 android:layout_width="match_parent"
 android:layout_height="wrap_content"/>
 ```
