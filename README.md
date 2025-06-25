@@ -1,4 +1,4 @@
-![](https://github.com/BoldBlueTechnologies/MidoconlineAndroidSDK/blob/main/midoconline_banner_sdk.png)
+![](https://github.com/BoldBlueTechnologies/MidoconlineAndroidSDK/blob/main/midoconline_banners_sdk.png)
 
 # MidoconlineAndroidSDK
 
